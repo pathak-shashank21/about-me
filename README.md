@@ -21,7 +21,7 @@
 - Strong background in Space Engineering
 - Engaged in various research projects and technical roles in satellite tracking, database development, and robot operation.
 - Currently learning Computer vision by Self
-- I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for a new job opportunity, this is [my resume](mycv1916.tiiny.site)
 
 <br><br>
 
